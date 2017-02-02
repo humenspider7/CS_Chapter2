@@ -9,6 +9,13 @@ namespace Carpet
     {
         static void Main(string[] args)
         {
+            //DONE
+            int length = 6;
+            int width = 2;
+            double squarefeet = length * width;
+            double pricePerSFoot = 6.66;
+
+            Console.WriteLine("The total cost is: " + squarefeet * pricePerSFoot + "$");
         }
     }
 }

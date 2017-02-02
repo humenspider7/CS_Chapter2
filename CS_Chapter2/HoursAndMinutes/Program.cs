@@ -9,6 +9,9 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
+            //DONE
+            int minutes = 69666;
+            Console.WriteLine("Hours worked: " + minutes / 60 + " Minutes worked: " + minutes % 60);
         }
     }
 }
