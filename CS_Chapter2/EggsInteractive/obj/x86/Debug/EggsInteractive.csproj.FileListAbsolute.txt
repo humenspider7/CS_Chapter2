@@ -2,3 +2,8 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\bin\Deb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\bin\Debug\EggsInteractive.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\bin\Debug\EggsInteractive.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter2\CS_Chapter2\EggsInteractive\bin\Debug\EggsInteractive.pdb
